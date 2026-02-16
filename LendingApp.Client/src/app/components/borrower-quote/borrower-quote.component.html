@@ -1,0 +1,192 @@
+<!-- src/app/components/borrower-quote/borrower-quote.component.html -->
+<div class="quote-container">
+  <h1 class="quote-title">Your quote</h1>
+
+  <!-- Your information section -->
+  <div class="section">
+    <div class="section-header">
+      <h2 class="section-title">Your information</h2>
+      <button 
+        *ngIf="!isEditingInfo" 
+        class="edit-btn" 
+        (click)="onEdit('information')">
+        Edit
+      </button>
+      <div *ngIf="isEditingInfo" class="action-buttons">
+        <button class="cancel-btn" (click)="onCancel('information')">Cancel</button>
+        <button class="save-btn" (click)="onSave('information')">Save</button>
+      </div>
+    </div>
+    
+    <!-- View Mode -->
+    <div *ngIf="!isEditingInfo">
+      <div class="info-row">
+        <span class="label">Name</span>
+        <span class="value">{{ borrowerInfo.name }}</span>
+      </div>
+    </div>
+
+    <!-- Edit Mode -->
+    <div *ngIf="isEditingInfo">
+      <div class="info-row">
+        <span class="label">Title</span>
+        <select class="edit-input" [(ngModel)]="borrowerInfo.title">
+          <option *ngFor="let t of titleOptions" [value]="t">{{ t }}</option>
+        </select>
+      </div>
+      
+      <div class="info-row">
+        <span class="label">First name</span>
+        <input 
+          type="text" 
+          class="edit-input" 
+          [(ngModel)]="borrowerInfo.firstName"
+          placeholder="First name">
+      </div>
+      
+      <div class="info-row">
+        <span class="label">Last name</span>
+        <input 
+          type="text" 
+          class="edit-input" 
+          [(ngModel)]="borrowerInfo.lastName"
+          placeholder="Last name">
+      </div>
+    </div>
+    
+    <div class="info-row">
+      <span class="label">Mobile</span>
+      <span *ngIf="!isEditingInfo" class="value">{{ borrowerInfo.mobile }}</span>
+      <input 
+        *ngIf="isEditingInfo" 
+        type="tel" 
+        class="edit-input" 
+        [(ngModel)]="borrowerInfo.mobile">
+    </div>
+    
+    <div class="info-row">
+      <span class="label">Email</span>
+      <span *ngIf="!isEditingInfo" class="value">{{ borrowerInfo.email }}</span>
+      <input 
+        *ngIf="isEditingInfo" 
+        type="email" 
+        class="edit-input" 
+        [(ngModel)]="borrowerInfo.email">
+    </div>
+  </div>
+
+  <!-- Finance details section -->
+  <div class="section">
+    <div class="section-header">
+      <h2 class="section-title">Finance details</h2>
+      <button 
+        *ngIf="!isEditingFinance" 
+        class="edit-btn" 
+        (click)="onEdit('finance')">
+        Edit
+      </button>
+      <div *ngIf="isEditingFinance" class="action-buttons">
+        <button class="cancel-btn" (click)="onCancel('finance')">Cancel</button>
+        <button class="save-btn" (click)="onSave('finance')">Save</button>
+      </div>
+    </div>
+    
+    <!-- Finance Amount - View Mode -->
+    <div *ngIf="!isEditingFinance" class="finance-row">
+      <span class="label">Finance amount</span>
+      <div class="amount-container">
+        <span class="amount">${{ financeDetails.amount.toLocaleString() }}</span>
+        <span class="duration">over {{ financeDetails.months }} months</span>
+      </div>
+    </div>
+
+    <!-- Finance Amount - Edit Mode with Slider -->
+    <div *ngIf="isEditingFinance" class="slider-section">
+      <div class="slider-container">
+        <span class="slider-label-min">${{ minLoan.toLocaleString() }}</span>
+        <div class="slider-wrapper">
+          <div class="slider-tooltip" [style.left]="getAmountSliderTooltipPosition()">
+            ${{ financeDetails.amount.toLocaleString() }}
+          </div>
+          <input 
+            type="range" 
+            id="financeAmount"
+            class="slider"
+            [(ngModel)]="financeDetails.amount"
+            [min]="minLoan"
+            [max]="maxLoan"
+            step="100"
+          />
+          <div class="slider-question">How much do you need?</div>
+        </div>
+        <span class="slider-label-max">${{ maxLoan.toLocaleString() }}</span>
+      </div>
+    </div>
+
+    <!-- Loan Duration - Edit Mode with Slider -->
+    <div *ngIf="isEditingFinance" class="slider-section">
+      <div class="slider-container">
+        <span class="slider-label-min">{{ financeDetails.minTerm }} months</span>
+        <div class="slider-wrapper">
+          <div class="slider-tooltip" [style.left]="getDurationSliderTooltipPosition()">
+            {{ financeDetails.months }} months
+          </div>
+          <input 
+            type="range" 
+            id="loanDuration"
+            class="slider"
+            [(ngModel)]="financeDetails.months"
+            [min]="this.financeDetails.minTerm"
+            [max]="this.financeDetails.maxTerm"
+            step="1"
+          />
+          <div class="slider-question">How long do you need it for?</div>
+        </div>
+        <span class="slider-label-max">{{ financeDetails.maxTerm }} months</span>
+      </div>
+    </div>
+    
+    <div class="divider"></div>
+    
+    <!-- Repayments - Always read-only, no edit -->
+    <div class="finance-row">
+      <span class="label">Repayments from</span>
+      <div class="repayment-container">
+        <span class="repayment-amount">${{ financeDetails.repaymentAmount }}</span>
+        <span class="frequency">{{ financeDetails.frequency }}</span>
+        <span class="frequency">(includes ${{ financeDetails.establishmentFee.toFixed(2) }} establishment fee)</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Show product info if available -->
+  <div class="section" *ngIf="quoteData">
+    <h2 class="section-title">Product Information</h2>
+    <div class="info-row">
+      <span class="label">Product</span>
+      <span class="value">{{ quoteData.product }}</span>
+    </div>
+    <div class="info-row" *ngIf="quoteData.interestFreeMonths !== undefined">
+      <span class="label">Interest-Free Period</span>
+      <span class="value interest-free">
+        <span *ngIf="quoteData.interestFreeMonths === 'all'">✨ Entire loan period</span>
+        <span *ngIf="typeof quoteData.interestFreeMonths === 'number' && quoteData.interestFreeMonths > 0">✨ First {{ quoteData.interestFreeMonths }} months</span>
+        <span *ngIf="quoteData.interestFreeMonths === 0"><span class="info-icon">ℹ️</span> Standard rates apply</span>
+      </span>
+    </div>
+  </div>
+
+  <!-- Apply button -->
+  <button class="apply-btn" (click)="onApplyNow()">
+    Apply now
+  </button>
+
+  <!-- Disclaimer text -->
+  <p class="disclaimer">
+    Total repayments ${{ financeDetails.totalRepayment.toFixed(2) }}, made up of principal ${{ financeDetails.amount.toLocaleString() }}, 
+    an establishment fee of ${{ financeDetails.establishmentFee.toFixed(2) }} (added to loan), and 
+    interest of ${{ financeDetails.interest.toFixed(2) }}. The repayment amount is based on the variables 
+    selected, is subject to our assessment and suitability, and other important 
+    terms and conditions apply.
+  </p>
+</div>

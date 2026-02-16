@@ -1,0 +1,159 @@
+<!-- src/app/components/loan-confirmation/loan-confirmation.component.html -->
+
+<!-- Confetti Animation Overlay -->
+<div class="confetti-container" *ngIf="showConfetti">
+  <div class="confetti" *ngFor="let i of [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]"></div>
+</div>
+
+<!-- Main Container -->
+<div class="success-container" [class.animate-in]="animateIn">
+  
+  <!-- LOADING STATE -->
+  <div *ngIf="isSubmitting" class="state-container loading-state">
+    <div class="spinner-container">
+      <div class="spinner"></div>
+      <div class="spinner-ring"></div>
+    </div>
+    <h1 class="state-title">Processing your application</h1>
+    <p class="state-message">Please wait while we securely submit your loan application...</p>
+    <div class="progress-dots">
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+  </div>
+
+  <!-- SUCCESS STATE -->
+  <div *ngIf="isSuccess && confirmationResponse" class="state-container success-state">
+    
+    <!-- Success Icon -->
+    <div class="success-icon-container">
+      <svg class="success-icon" viewBox="0 0 100 100">
+        <circle class="success-circle" cx="50" cy="50" r="45"/>
+        <path class="success-checkmark" d="M30 50 L45 65 L70 35" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+
+    <!-- Success Header -->
+    <h1 class="success-title">Application Submitted!</h1>
+    <p class="success-subtitle">Your loan application has been successfully submitted</p>
+
+    <!-- Confirmation Number -->
+    <div class="confirmation-card">
+      <div class="confirmation-header">
+        <span class="confirmation-label">Confirmation Number</span>
+        <button class="copy-btn" (click)="copyConfirmationNumber()">Copy</button>
+      </div>
+      <div class="confirmation-number">{{ confirmationResponse.confirmationNumber }}</div>
+      <div class="confirmation-subtext">Application ID: {{ confirmationResponse.applicationId }}</div>
+    </div>
+
+    <!-- Application Details -->
+    <div class="details-card">
+      <h2 class="details-title">Application Summary</h2>
+      
+      <div class="detail-row">
+        <span class="detail-label">Applicant</span>
+        <span class="detail-value">{{ applicationData.borrowerInfo.fullName }}</span>
+      </div>
+      
+      <div class="detail-row">
+        <span class="detail-label">Loan Amount</span>
+        <span class="detail-value highlight">{{ formatCurrency(applicationData.financeDetails.amount) }}</span>
+      </div>
+      
+      <div class="detail-row">
+        <span class="detail-label">Term</span>
+        <span class="detail-value">{{ applicationData.financeDetails.months }} months</span>
+      </div>
+      
+      <div class="detail-row">
+        <span class="detail-label">Monthly Payment</span>
+        <span class="detail-value">{{ formatCurrency(applicationData.financeDetails.repaymentAmount) }}</span>
+      </div>
+      
+      <div class="detail-row">
+        <span class="detail-label">Product</span>
+        <span class="detail-value">{{ applicationData.quoteData?.product || 'Standard Loan' }}</span>
+      </div>
+      
+      <div class="detail-row">
+        <span class="detail-label">Submitted</span>
+        <span class="detail-value">{{ formatDate(confirmationResponse.timestamp) }}</span>
+      </div>
+    </div>
+
+    <!-- Next Steps -->
+    <div class="next-steps-card" *ngIf="confirmationResponse.nextSteps && confirmationResponse.nextSteps.length > 0">
+      <h2 class="next-steps-title">What happens next?</h2>
+      <ul class="next-steps-list">
+        <li *ngFor="let step of confirmationResponse.nextSteps; let i = index" class="next-step-item">
+          <span class="step-number">{{ i + 1 }}</span>
+          <span class="step-text">{{ step }}</span>
+        </li>
+      </ul>
+      <p class="processing-time" *ngIf="confirmationResponse.estimatedProcessingTime">
+        <svg class="clock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/>
+          <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        Estimated processing time: {{ confirmationResponse.estimatedProcessingTime }}
+      </p>
+    </div>
+
+    <!-- Support Message -->
+    <div class="support-message">
+      <p>We'll send a confirmation email to <strong>{{ applicationData.borrowerInfo.email }}</strong></p>
+      <p>If you have any questions, contact us at <a href="mailto:support@example.com">support@example.com</a></p>
+    </div>
+  </div>
+
+  <!-- ERROR STATE -->
+  <div *ngIf="isError && errorDetails" class="state-container error-state">
+    
+    <!-- Error Icon -->
+    <div class="error-icon-container">
+      <svg class="error-icon" viewBox="0 0 100 100">
+        <circle class="error-circle" cx="50" cy="50" r="45"/>
+        <line class="error-x" x1="35" y1="35" x2="65" y2="65"/>
+        <line class="error-x" x1="65" y1="35" x2="35" y2="65"/>
+      </svg>
+    </div>
+
+    <!-- Error Header -->
+    <h1 class="error-title">Something went wrong</h1>
+    <p class="error-subtitle">We couldn't process your application</p>
+
+    <!-- Error Details -->
+    <div class="error-card">
+      <div class="error-code">Error Code: {{ errorDetails.code }}</div>
+      <div class="error-message">{{ errorDetails.message }}</div>
+      <div class="error-details" *ngIf="errorDetails.details && errorDetails.details.length > 0">
+        <p class="error-details-title">Details:</p>
+        <ul class="error-details-list">
+          <li *ngFor="let detail of errorDetails.details">{{ detail }}</li>
+        </ul>
+      </div>
+      <div class="error-timestamp">{{ formatDate(errorDetails.timestamp) }}</div>
+    </div>
+
+    <!-- Error Actions -->
+    <div class="action-buttons">
+      <button class="btn btn-primary" (click)="retrySubmission()">
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"/>
+          <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>
+        </svg>
+        Try Again
+      </button>
+    </div>
+
+    <!-- Support Message -->
+    <div class="support-message error-support">
+      <p>Need help? Contact our support team:</p>
+      <p><strong>Email:</strong> <a href="mailto:support@example.com">support@example.com</a></p>
+      <p><strong>Phone:</strong> <a href="tel:1-800-123-4567">1-800-123-4567</a></p>
+    </div>
+  </div>
+
+</div>

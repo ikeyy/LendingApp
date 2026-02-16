@@ -1,0 +1,205 @@
+<!-- src/app/components/quote-calculator/quote-calculator.component.html -->
+<div class="quote-calculator">
+  <div class="calculator-container">
+    <h1>Quote calculator</h1>
+
+    <!-- Loan Request Loading State -->
+    <div *ngIf="isLoadingLoanRequest" class="loading-banner">
+      <div class="spinner-small"></div>
+      <span>Loading loan request data...</span>
+    </div>
+
+    <!-- Loan Request Error State -->
+    <div *ngIf="loanRequestError && !isLoadingLoanRequest" class="error-banner">
+      <span>⚠️ {{ loanRequestError }}</span>
+      <button class="btn-retry-small" (click)="retryLoadLoanRequest()">Retry</button>
+    </div>
+
+    <div *ngIf="productLoadError && !isLoadingProducts" class="error-banner">
+      <span>⚠️ {{ productLoadError }}</span>
+      <button class="btn-retry-small" (click)="retryLoadProducts()">Retry</button>
+    </div>
+
+    <!-- Loan Request Success Banner -->
+    <div *ngIf="loanRequestId && !isLoadingLoanRequest && !loanRequestError" class="success-banner">
+      <span>✓ Loan request data loaded successfully</span>
+    </div>
+    
+    <!-- Product Loading State -->
+    <div *ngIf="isLoadingProducts" class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading products...</p>
+    </div>
+
+    <!-- Product Dropdown -->
+    <div class="product-section" *ngIf="!isLoadingProducts">
+      <label for="product">Product</label>
+      <select 
+        id="product"
+        [(ngModel)]="selectedProductId"
+        (ngModelChange)="onProductChange()"
+        class="form-control product-dropdown"
+      >
+        <option *ngFor="let product of productData" [value]="product.id">
+          {{ product.displayName }}
+        </option>
+      </select>
+      <div class="product-info" *ngIf="getSelectedProduct()?.description">
+        <span class="info-icon">ℹ️</span>
+        {{ getSelectedProduct()?.description }}
+      </div>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+
+    <!-- Loan Amount Slider -->
+    <div class="slider-section" *ngIf="!isLoadingProducts">
+      <div class="slider-container">
+        <span class="slider-label-min">{{ formatCurrency(minLoan) }}</span>
+        <div class="slider-wrapper">
+          <div class="slider-tooltip" [style.left]="getSliderTooltipPosition()">
+            {{ formatCurrency(loanAmount) }}
+          </div>
+          <input 
+            type="range" 
+            id="loanAmount"
+            class="slider"
+            [(ngModel)]="loanAmount"
+            (ngModelChange)="onSliderChange()"
+            [min]="minLoan"
+            [max]="maxLoan"
+            step="100"
+          />
+          <div class="slider-question">How much do you need?</div>
+        </div>
+        <span class="slider-label-max">{{ formatCurrency(maxLoan) }}</span>
+      </div>
+    </div>
+    <br/>
+    <br/>
+
+    <!-- Loan Term Slider -->
+    <div class="slider-section" *ngIf="!isLoadingProducts">
+      <div class="slider-container">
+        <span class="slider-label-min">{{ getMinTerm() }} months</span>
+        <div class="slider-wrapper">
+          <div class="slider-tooltip" [style.left]="getTermSliderTooltipPosition()">
+            {{ loanTerm }} months
+          </div>
+          <input 
+            type="range" 
+            id="loanTerm"
+            class="slider"
+            [(ngModel)]="loanTerm"
+            (ngModelChange)="onTermSliderChange()"
+            [min]="getMinTerm()"
+            [max]="getMaxTerm()"
+            step="1"
+          />
+          <div class="slider-question">How long do you need it for?</div>
+        </div>
+        <span class="slider-label-max">{{ getMaxTerm() }} months</span>
+      </div>
+      <br/>
+      <div class="interest-info" *ngIf="getInterestFreeInfo()">
+        <span class="highlight-icon">✨</span>
+        {{ getInterestFreeInfo() }}
+      </div>
+    </div>
+
+    <!-- Form Fields -->
+    <div class="form-row">
+      <!-- Title Dropdown -->
+      <div class="form-group title-group">
+        <label for="title">Title</label>
+        <select 
+          id="title"
+          [(ngModel)]="title"
+          class="form-control"
+        >
+          <option *ngFor="let t of titles" [value]="t">{{ t }}</option>
+        </select>
+      </div>
+
+      <!-- First Name -->
+      <div class="form-group name-group">
+        <label>&nbsp;</label>
+        <input 
+          type="text"
+          id="firstName"
+          [(ngModel)]="firstName"
+          class="form-control"
+          placeholder="First name"
+          required
+        />
+      </div>
+
+      <!-- Last Name -->
+      <div class="form-group name-group">
+        <label>&nbsp;</label>
+        <input 
+          type="text"
+          id="lastName"
+          [(ngModel)]="lastName"
+          class="form-control"
+          placeholder="Last name"
+          required
+        />
+      </div>
+    </div>
+
+    <!-- Date of Birth Row -->
+    <div class="form-row">
+      <div class="form-group">
+        <label for="dateOfBirth">Date of Birth</label>
+        <input 
+          type="date"
+          id="dateOfBirth"
+          [(ngModel)]="dateOfBirth"
+          class="form-control"
+          required
+        />
+        <small *ngIf="getAge()" class="age-display">Age: {{ getAge() }} years</small>
+      </div>
+    </div>
+
+    <div class="form-row">
+      <!-- Email -->
+      <div class="form-group">
+        <input 
+          type="email"
+          id="email"
+          [(ngModel)]="email"
+          class="form-control"
+          placeholder="Your email"
+          required
+        />
+      </div>
+
+      <!-- Mobile Number -->
+      <div class="form-group">
+        <input 
+          type="tel"
+          id="mobileNumber"
+          [(ngModel)]="mobileNumber"
+          class="form-control"
+          placeholder="Mobile number"
+          required
+        />
+      </div>
+    </div>
+
+    <!-- Calculate Button -->
+    <button 
+      type="button"
+      class="btn-calculate"
+      (click)="calculateQuote()"
+      [disabled]="isLoadingProducts || isLoadingLoanRequest"
+    >
+      Calculate quote
+    </button>
+
+    <p class="disclaimer">Quote does not affect your credit score</p>
+  </div>
+</div>

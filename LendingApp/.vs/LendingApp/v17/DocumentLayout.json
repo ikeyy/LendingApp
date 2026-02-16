@@ -1,0 +1,1465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\loanconfirmation\\loanconfirmationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\loanconfirmation\\loanconfirmationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loanconfirmation\\loanconfirmationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loanconfirmation\\loanconfirmationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\loanrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\loanrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\createloanrequest\\createloanrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\createloanrequest\\createloanrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\quote\\borrowerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\quote\\borrowerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\loanconfirmation\\loanconfirmationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\loanconfirmation\\loanconfirmationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\createloanrequest\\createloanrequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\createloanrequest\\createloanrequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loancalculator\\loancalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loancalculator\\loancalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\loanconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\loanconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\loanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\loanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\loanrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\loanrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\loanconfirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\loanconfirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\loancalculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\loancalculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\blacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\blacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\blacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\blacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\updateloanrequest\\updateloanrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\updateloanrequest\\updateloanrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getloanrequestbyid\\getloanrequestbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getloanrequestbyid\\getloanrequestbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getloanrequestbyid\\getloanrequestbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getloanrequestbyid\\getloanrequestbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\updateloanrequest\\updateloanrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\updateloanrequest\\updateloanrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getquotebyid\\getquotebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getquotebyid\\getquotebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88995DA8-939C-4717-855A-97B5B93FD3F8}|LendingApp.Test\\LendingApp.Test.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.test\\loancalculator\\loancalculationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88995DA8-939C-4717-855A-97B5B93FD3F8}|LendingApp.Test\\LendingApp.Test.csproj|solutionrelative:lendingapp.test\\loancalculator\\loancalculationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\utils\\loancalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\utils\\loancalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ed Kristian Capiral\\.nuget\\packages\\xunit.v3.core.mtp-v1\\3.2.2\\buildTransitive\\xunit.v3.core.mtp-v1.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88995DA8-939C-4717-855A-97B5B93FD3F8}|LendingApp.Test\\LendingApp.Test.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.test\\lendingapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88995DA8-939C-4717-855A-97B5B93FD3F8}|LendingApp.Test\\LendingApp.Test.csproj|solutionrelative:lendingapp.test\\lendingapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\createloanrequest\\createloanrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\createloanrequest\\createloanrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\addblacklist\\addblacklistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\addblacklist\\addblacklistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\blacklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\blacklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\addblacklist\\addblacklistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\addblacklist\\addblacklistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\service\\iloanconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\service\\iloanconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iloanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iloanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\loancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\loancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\loandetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\loandetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iloandetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iloandetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loanconfirmation\\loanconfirmationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loanconfirmation\\loanconfirmationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\utils\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\utils\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.api\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD51AAE1-B6E1-E484-099F-80094BDF51B2}|LendingApp.API\\LendingApp.API.csproj|solutionrelative:lendingapp.api\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\product\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\product\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\quote\\quoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\quote\\quoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\quote\\quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\quote\\quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\utils\\stringcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\utils\\stringcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.infrastructure\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E57E7-F23A-4E96-BACD-B9CD9ECEC867}|LendingApp.Infrastructure\\LendingApp.Infrastructure.csproj|solutionrelative:lendingapp.infrastructure\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\createquotecommand\\createquotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\createquotecommand\\createquotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\command\\createquotecommand\\createquotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\command\\createquotecommand\\createquotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getloancalculation\\getloancalculationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getloancalculation\\getloancalculationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getloancalculation\\getloancalculationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getloancalculation\\getloancalculationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getquotebyid\\getquotebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getquotebyid\\getquotebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loanrequest\\borrowerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loanrequest\\borrowerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\query\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\query\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\product\\addproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\product\\addproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\service\\iloancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\service\\iloancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\service\\iloanrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\service\\iloanrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\service\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\service\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\repository\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\repository\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loanrequest\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loanrequest\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\dto\\loanrequest\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\dto\\loanrequest\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\entities\\loandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\entities\\loandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\constants\\urlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\constants\\urlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\extensions\\blacklistextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\extensions\\blacklistextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\enums\\blacklisttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\enums\\blacklisttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.domain\\lendingapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72D699C7-EA44-4C36-B1FF-4ED290315FAC}|LendingApp.Domain\\LendingApp.Domain.csproj|solutionrelative:lendingapp.domain\\lendingapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|c:\\users\\ed kristian capiral\\source\\repos\\lendingapp\\lendingapp.application\\lendingapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E4EF12A-5B2E-4303-B0AB-2038BB84B8C2}|LendingApp.Application\\LendingApp.Application.csproj|solutionrelative:lendingapp.application\\lendingapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LenderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LendingApp.Infrastructure\\Repositories\\LenderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Lender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LendingApp.Domain\\Entities\\Lender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanConfirmationCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandValidator.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandValidator.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandValidator.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T13:44:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LendingApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\appsettings.json",
+              "RelativeToolTip": "LendingApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T13:58:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LendingApp.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "LendingApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T13:58:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Program.cs",
+              "RelativeToolTip": "LendingApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:44:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\DependencyInjection.cs",
+              "RelativeToolTip": "LendingApp.API\\DependencyInjection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:13:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoanConfirmationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\LoanConfirmation\\LoanConfirmationCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:54:17.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\BorrowerRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\BorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\BorrowerRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\BorrowerRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:15:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanRequestService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\LoanRequestService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanRequestService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\LoanRequestService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwEYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:25:54.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateLoanRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:11:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\BorrowerDetails.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\Quote\\BorrowerDetails.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\BorrowerDetails.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\Quote\\BorrowerDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:59:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanConfirmationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationRequest.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationRequest.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationRequest.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:19:46.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateLoanRequestCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandValidator.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandValidator.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommandValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:05:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoanCalculationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanCalculator\\LoanCalculationRequest.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanCalculator\\LoanCalculationRequest.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanCalculator\\LoanCalculationRequest.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanCalculator\\LoanCalculationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:52:48.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\ApplicationDBContext.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:06:10.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoanConfirmationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanConfirmationService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\LoanConfirmationService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanConfirmationService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\LoanConfirmationService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAhwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:58:03.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoanApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LoanApplicationRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\LoanApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LoanApplicationRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\LoanApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:31:33.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoanCalculationController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanCalculationController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\LoanCalculationController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanCalculationController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\LoanCalculationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:51:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanRequestController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\LoanRequestController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanRequestController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\LoanRequestController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA7wBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:44:32.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoanConfirmationController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanConfirmationController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\LoanConfirmationController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\LoanConfirmationController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\LoanConfirmationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:59:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "LendingApp.Application\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:25:38.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlacklistService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\BlacklistService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\BlacklistService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\BlacklistService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\BlacklistService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T07:56:20.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlacklistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\BlacklistRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\BlacklistRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\BlacklistRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\BlacklistRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:32:07.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateLoanRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommand.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommand.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommand.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:04:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:01:27.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetLoanRequestByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQuery.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQuery.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:03:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetLoanRequestByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQueryHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetLoanRequestById\\GetLoanRequestByIdQueryHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:09:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateLoanRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\UpdateLoanRequest\\UpdateLoanRequestCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:05:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetQuoteByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQueryHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T06:15:11.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoanCalculationsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Test\\LoanCalculator\\LoanCalculationsTest.cs",
+              "RelativeDocumentMoniker": "LendingApp.Test\\LoanCalculator\\LoanCalculationsTest.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Test\\LoanCalculator\\LoanCalculationsTest.cs",
+              "RelativeToolTip": "LendingApp.Test\\LoanCalculator\\LoanCalculationsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:01:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LendingApp.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Test\\LendingApp.Test.csproj",
+              "RelativeDocumentMoniker": "LendingApp.Test\\LendingApp.Test.csproj",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Test\\LendingApp.Test.csproj",
+              "RelativeToolTip": "LendingApp.Test\\LendingApp.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T11:00:35.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoanCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\LoanCalculator.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Utils\\LoanCalculator.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\LoanCalculator.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Utils\\LoanCalculator.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:26:17.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "xunit.v3.core.mtp-v1.targets",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\.nuget\\packages\\xunit.v3.core.mtp-v1\\3.2.2\\buildTransitive\\xunit.v3.core.mtp-v1.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\xunit.v3.core.mtp-v1\\3.2.2\\buildTransitive\\xunit.v3.core.mtp-v1.targets",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\.nuget\\packages\\xunit.v3.core.mtp-v1\\3.2.2\\buildTransitive\\xunit.v3.core.mtp-v1.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\xunit.v3.core.mtp-v1\\3.2.2\\buildTransitive\\xunit.v3.core.mtp-v1.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-16T11:05:49.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateLoanRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommand.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommand.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommand.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\CreateLoanRequest\\CreateLoanRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:07:09.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddBlacklistCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:18:35.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BlacklistController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\BlacklistController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\BlacklistController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\BlacklistController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\BlacklistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:13:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:45:04.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IBlacklistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IBlacklistRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\IBlacklistRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IBlacklistRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\IBlacklistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:26:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:56:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:17:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddProduct\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\AddProduct\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddProduct\\AddProductCommand.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\AddProduct\\AddProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:16:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddBlacklistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommand.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommand.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommand.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\AddBlacklist\\AddBlacklistCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:18:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Blacklist.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Blacklist.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\Blacklist.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Blacklist.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\Blacklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:42:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoanApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\LoanApplication.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\LoanApplication.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\LoanApplication.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\LoanApplication.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:24:41.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ILoanConfirmationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanConfirmationService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Service\\ILoanConfirmationService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanConfirmationService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Service\\ILoanConfirmationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:59:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ILoanApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILoanApplicationRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\ILoanApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILoanApplicationRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\ILoanApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:38:05.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoanCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanCalculationService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\LoanCalculationService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\LoanCalculationService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\LoanCalculationService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:59:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\ProductService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:07:35.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoanDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LoanDetailsRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\LoanDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LoanDetailsRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\LoanDetailsRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:20:33.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ILoanDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILoanDetailsRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\ILoanDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILoanDetailsRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\ILoanDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:19:07.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Enums\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Enums\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:23:47.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\NumberGenerator.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Utils\\NumberGenerator.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\NumberGenerator.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Utils\\NumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:20:17.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoanConfirmationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationResponse.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationResponse.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationResponse.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanConfirmation\\LoanConfirmationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:55:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "LendingApp.API\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.API\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "LendingApp.API\\Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:23:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "QuoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\QuoteRequest.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\Quote\\QuoteRequest.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\QuoteRequest.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\Quote\\QuoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:57:46.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QuoteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\QuoteResponse.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\Quote\\QuoteResponse.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Quote\\QuoteResponse.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\Quote\\QuoteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:57:55.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Product\\ProductData.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\Product\\ProductData.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Product\\ProductData.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\Product\\ProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:58:09.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StringCipher.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\StringCipher.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Utils\\StringCipher.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Utils\\StringCipher.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Utils\\StringCipher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:10:14.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\QuoteRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\QuoteRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\QuoteRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\QuoteRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:11:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Quote.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\Quote.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Quote.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:09:50.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\QuoteService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Services\\QuoteService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Services\\QuoteService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Services\\QuoteService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:13:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateQuoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommandHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:49:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateQuoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommand.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommand.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommand.cs",
+              "RelativeToolTip": "LendingApp.Application\\Command\\CreateQuoteCommand\\CreateQuoteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:48:53.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetLoanCalculationQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQueryHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQueryHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:53:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetLoanCalculationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQuery.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQuery.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQuery.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetLoanCalculation\\GetLoanCalculationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:52:52.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetQuoteByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQuery.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQuery.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetQuoteById\\GetQuoteByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T06:15:00.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:35:45.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IQuoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IQuoteRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\IQuoteRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IQuoteRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\IQuoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:31:44.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BorrowerData.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\BorrowerData.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanRequest\\BorrowerData.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\BorrowerData.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanRequest\\BorrowerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:04:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:18:39.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "LendingApp.Application\\Query\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:04:58.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:43:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AddProductData.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Product\\AddProductData.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\Product\\AddProductData.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\Product\\AddProductData.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\Product\\AddProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:37:06.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\IProductService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:56:58.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ILoanCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanCalculationService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Service\\ILoanCalculationService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanCalculationService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Service\\ILoanCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T06:04:07.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ILoanRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanRequestService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Service\\ILoanRequestService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\ILoanRequestService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Service\\ILoanRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:47:21.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Service\\IQuoteService.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Service\\IQuoteService.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Service\\IQuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:16:32.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IBorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IBorrowerRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\IBorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\IBorrowerRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\IBorrowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:55:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LoanRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanRequest\\LoanRequest.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\LoanRequest.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanRequest\\LoanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:55:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "LoanResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\LoanResponse.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\DTO\\LoanRequest\\LoanResponse.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\DTO\\LoanRequest\\LoanResponse.cs",
+              "RelativeToolTip": "LendingApp.Domain\\DTO\\LoanRequest\\LoanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:55:11.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Borrower.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\Borrower.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Borrower.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:03:01.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoanDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\LoanDetails.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\LoanDetails.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\LoanDetails.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\LoanDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:32:48.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "URLConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Constants\\URLConstants.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Constants\\URLConstants.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Constants\\URLConstants.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Constants\\URLConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:06:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:01:54.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "BlacklistExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Extensions\\BlacklistExtensions.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Extensions\\BlacklistExtensions.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Extensions\\BlacklistExtensions.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Extensions\\BlacklistExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:23:28.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "BlacklistTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Enums\\BlacklistTypes.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Enums\\BlacklistTypes.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Enums\\BlacklistTypes.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Enums\\BlacklistTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:49:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "LendingApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\LendingApp.Domain.csproj",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\LendingApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\LendingApp.Domain.csproj",
+              "RelativeToolTip": "LendingApp.Domain\\LendingApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T11:17:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LendingApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\LendingApp.Application.csproj",
+              "RelativeDocumentMoniker": "LendingApp.Application\\LendingApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Application\\LendingApp.Application.csproj",
+              "RelativeToolTip": "LendingApp.Application\\LendingApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T01:03:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LenderRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Infrastructure\\Repositories\\LenderRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Infrastructure\\Repositories\\LenderRepository.cs",
+              "RelativeToolTip": "LendingApp.Infrastructure\\Repositories\\LenderRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:27:03.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Lender.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Lender.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Entities\\Lender.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Entities\\Lender.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Entities\\Lender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:05:49.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ILenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs",
+              "RelativeDocumentMoniker": "LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs",
+              "ToolTip": "C:\\Users\\Ed Kristian Capiral\\source\\repos\\LendingApp\\LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs",
+              "RelativeToolTip": "LendingApp.Domain\\Interfaces\\Repository\\ILenderRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:52:09.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

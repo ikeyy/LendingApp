@@ -1,0 +1,17 @@
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Infrastructure.deps.json
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Infrastructure.runtimeconfig.json
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Infrastructure.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Infrastructure.pdb
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Domain.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\bin\Debug\net8.0\LendingApp.Domain.pdb
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingA.83BB5FD9.Up2Date
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\refint\LendingApp.Infrastructure.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.pdb
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\LendingApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Infrastructure\obj\Debug\net8.0\ref\LendingApp.Infrastructure.dll

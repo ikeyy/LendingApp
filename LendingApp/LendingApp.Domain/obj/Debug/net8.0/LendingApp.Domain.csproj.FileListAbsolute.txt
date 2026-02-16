@@ -1,0 +1,11 @@
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\bin\Debug\net8.0\LendingApp.Domain.deps.json
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\bin\Debug\net8.0\LendingApp.Domain.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\bin\Debug\net8.0\LendingApp.Domain.pdb
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.AssemblyInfo.cs
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\refint\LendingApp.Domain.dll
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\LendingApp.Domain.pdb
+C:\Users\Ed Kristian Capiral\source\repos\LendingApp\LendingApp.Domain\obj\Debug\net8.0\ref\LendingApp.Domain.dll
