@@ -5,9 +5,6 @@ Ensure you have the following installed before proceeding:
 1.  **Node.js:** [Download here](https://nodejs.org/)
 2.  **Angular CLI:** Install via terminal:
     ```
-
-[file-tag: code-generated-file-0-1771258482726569808]
-bash
     npm install -g @angular/cli
     ```
 3.  **SQL Server:** Prepared for `.bacpac` restoration.
