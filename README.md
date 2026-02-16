@@ -6,16 +6,16 @@
 
 Ensure you have the following installed and configured before running the application:
 
-1. **Node.js:** [Download and install here](https://nodejs.org/).
-2. **Angular CLI:** Run the following command in your terminal:
+1. **Node.js** [Download and install here](https://nodejs.org/).
+2. **Angular CLI** Run the following command in your terminal:
 ```bash
 npm install -g @angular/cli
 
 ```
 
 
-3. **SQL Database:** Import the `LenderAppData.bacpac` file into your SQL Server instance.
-4. **Postman:** Import `LendingApp.postman_collection.json` to access pre-configured API endpoints.
+3. **SQL Database** Import the `LenderAppData.bacpac` file into your SQL Server instance.
+4. **Postman** Import `LendingApp.postman_collection.json` to access pre-configured API endpoints.
 
 ---
 
