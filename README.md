@@ -59,7 +59,7 @@ ng serve
 
 ### Initiate Loan Process
 
-Run `GET {baseUrl}/api/LoanRequest` (via Postman or Swagger) to receive the redirection link for the loan application.
+Run `POST {baseUrl}/api/LoanRequest` (via Postman or Swagger) to receive the redirection link for the loan application.
 
 ---
 
