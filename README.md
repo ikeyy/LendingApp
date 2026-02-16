@@ -32,7 +32,7 @@ To ensure the frontend and backend communicate correctly, update the following f
 ## 🖥️ Running the Application
 
 ### Backend (.NET Core)
-1. Open the solution in Visual Studio or your preferred IDE.
+1. Open the solution in Visual Studio
 2. Run the project
 
 ### Frontend (Angular)
