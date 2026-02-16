@@ -1,9 +1,3 @@
-🏦 LendingApp
-
-A full-stack lending application featuring an **Angular** frontend, a **.NET Core** backend, and **SQL Server** database integration.
-
----
-
 ## 🛠 Prerequisites
 
 Ensure you have the following installed before proceeding:
