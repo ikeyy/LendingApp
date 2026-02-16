@@ -40,3 +40,12 @@ To ensure the frontend and backend communicate correctly, update the following f
 2. Run the development server:
    ```bash
    ng serve
+   
+---
+
+## 🚀 Future Improvements
+
+* **Database:** Normalization of remaining SQL tables.
+* **Features:** Creation of a CRUD API for Fee management.
+* **Testing:** Expanded Automated Unit Testing coverage beyond Loan Calculations.
+* **Architecture:** Implementation of a Generic Repository pattern within the Infrastructure Layer.
