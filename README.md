@@ -2,21 +2,21 @@
 **Prerequisites:**
 1. Download Node.js thru this link https://nodejs.org/
 2. Install Angular CLI thru Visual Studio Code Terminal then type the code below:
-      - npm install -g @angular/cli
+      * npm install -g @angular/cli
 3. Import LenderAppData.bacpac file to the SQL database.
 4. Import LendingApp.postman_collection.json to Postman.
-        - Can be used for Adding Blacklist Domains or Mobile Number please see json samples below
-        - Used for Adding Domain Blacklist
-                - {
+        * Can be used for Adding Blacklist Domains or Mobile Number please see json samples below
+        * Used for Adding Domain Blacklist
+                * {
                         "Type":"Domain",
                         "Value": "gmail.com"
                    }
-        - Used for Adding Mobile Blacklist
+        * Used for Adding Mobile Blacklist
                 {
                         "Type":"Mobile",
                         "Value": "09099099909"
                 }
-        - Also there is an API for adding Product Data like on the sample below.
+        * Also there is an API for adding Product Data like on the sample below.
             {
                 "DisplayName": "Product A",
                 "InterestRate": 0.0599,
