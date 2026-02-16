@@ -1,5 +1,5 @@
 # LendingApp
-Prerequisites:
+**Prerequisites:**
 1. Download Node.js thru this link https://nodejs.org/
 2. Install Angular CLI thru Visual Studio Code Terminal then type the code below:
       - npm install -g @angular/cli
@@ -37,7 +37,7 @@ Prerequisites:
 6. Under the .Net app, change the AllowedOrigins value in the appSettings.development.json based on localhost value on the Angular app. 
 7. Align the server name under appSettings.development.json with the current machine SQL credentials.
 
-Intructions:
+**Instructions:**
 1. To start the Angular App type ng-serve to the Visual Studio Terminal and follow the localhost link provided in the terminal.
 2. Run the .Net Core App
 3. Run the {baseUrl}/api/LoanRequest (Note: Please see the Postman collection/Swagger API for the API request) to get the redirection link for the loan application.
