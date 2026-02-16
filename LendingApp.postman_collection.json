@@ -1,0 +1,152 @@
+{
+  "info": {
+    "_postman_id": "00a09929-59e9-4cb3-85f7-c0c2e72dfecb",
+    "name": "LendingApp",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "40558063"
+  },
+  "item": [
+    {
+      "name": "Loan Request",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"AmountRequired\": 500,\r\n    \"Term\": 2,\r\n    \"Title\": \"Mr.\",\r\n    \"FirstName\": \"Juan\",\r\n    \"LastName\": \"Dela Cruz\",\r\n    \"DateOfBirth\": \"2008-02-15\",\r\n    \"Mobile\": \"09099990909\",\r\n    \"Email\": \"juan@gmail.com.au\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7135/api/LoanRequest",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7135",
+          "path": [
+            "api",
+            "LoanRequest"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "BorrowerData",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://localhost:7135/api/LoanRequest?Id=sMyJkn6nqaAryjC3RwzTNFl/4GGNz38VEP4nHVqUT2k0i5Gu1tF7ZHgYKBGfbxUW",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7135",
+          "path": [
+            "api",
+            "LoanRequest"
+          ],
+          "query": [
+            {
+              "key": "Id",
+              "value": "sMyJkn6nqaAryjC3RwzTNFl/4GGNz38VEP4nHVqUT2k0i5Gu1tF7ZHgYKBGfbxUW"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Products",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"AmountRequired\": 5000,\r\n    \"Term\": 2,\r\n    \"Title\": \"Mr.\",\r\n    \"FirstName\": \"John\",\r\n    \"LastName\": \"doe\",\r\n    \"DateOfBirth\": \"1900-01-01\",\r\n    \"Mobile\": \"0422111333\",\r\n    \"Email\": \"layton@flower.com.au\"\r\n}"
+        },
+        "url": {
+          "raw": "https://localhost:7135/api/Products",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7135",
+          "path": [
+            "api",
+            "Products"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Add Product",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"DisplayName\": \"Product A\",\r\n    \"InterestRate\": 0.0599,\r\n    \"InterestFreeMonths\": \"all\",\r\n    \"MinTermMonths\": 2,\r\n    \"MaxTermMonths\": 60,\r\n    \"MinLoanAmount\": 500.00,\r\n    \"MaxLoanAmount\": 15000.00,\r\n    \"DefaultTermMonths\": 2,\r\n    \"Description\": \"Interest-free for the entire loan period\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7135/api/Product/create",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7135",
+          "path": [
+            "api",
+            "Product",
+            "create"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Add Blacklist",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"Type\":\"Domain\",\r\n    \"Value\": \"gmail.com\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7135/api/Blacklist/create",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7135",
+          "path": [
+            "api",
+            "Blacklist",
+            "create"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
