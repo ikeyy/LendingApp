@@ -14,8 +14,8 @@ npm install -g @angular/cli
 ```
 
 
-3. **SQL Database: ** Import the `LenderAppData.bacpac` file into your SQL Server instance.
-4. **Postman: ** Import `LendingApp.postman_collection.json` to access pre-configured API endpoints.
+3. **SQL Database:** Import the `LenderAppData.bacpac` file into your SQL Server instance.
+4. **Postman:** Import `LendingApp.postman_collection.json` to access pre-configured API endpoints.
 
 ---
 
