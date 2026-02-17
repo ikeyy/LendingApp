@@ -69,12 +69,16 @@ Run `POST {baseUrl}/api/LoanRequest` (via Postman or Swagger) to receive the red
 
 Used to restrict specific email domains or mobile numbers.
 
+Run `POST {baseUrl}/api/Blacklist/create` (via Postman or Swagger)
+
 | Type | Sample Payload |
 | --- | --- |
 | **Domain** | `{ "Type": "Domain", "Value": "gmail.com" }` |
 | **Mobile** | `{ "Type": "Mobile", "Value": "09099099909" }` |
 
 ### Product Data
+
+Run `POST {baseUrl}/api/Product/create` (via Postman or Swagger)
 
 ```json
 {
