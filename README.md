@@ -6,8 +6,8 @@
 
 Ensure you have the following installed and configured before running the application:
 
-1. **Node.js: ** [Download and install here](https://nodejs.org/).
-2. **Angular CLI: ** Run the following command in your terminal:
+1. **Node.js:** [Download and install here](https://nodejs.org/).
+2. **Angular CLI:** Run the following command in your terminal:
 ```bash
 npm install -g @angular/cli
 
