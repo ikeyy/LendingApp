@@ -79,8 +79,8 @@ Run `POST {baseUrl}/api/Blacklist/create` (via Postman or Swagger)
 ### Product Data
 
 Run `POST {baseUrl}/api/Product/create` (via Postman or Swagger)
-
 **Sample Payload**
+
 ```json
 {
   "DisplayName": "Product A",
